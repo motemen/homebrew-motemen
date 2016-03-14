@@ -1,2 +1,9 @@
 # homebrew-motemen
-My homebrew taps 
+
+## Usage
+
+    brew tap motemen/motemen
+
+## Formulas
+
+- [lgtm.sh](https://github.com/motemen/lgtm.sh)
